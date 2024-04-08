@@ -90,15 +90,6 @@ a {
 	color:black;
 }
 
-.credits {
-    background-color: #f4f4f4;
-    padding: 10px;
-    text-align: center;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
-
 /* Design adjustments using id */
 #introduction p {
 	margin-bottom: 50px;
